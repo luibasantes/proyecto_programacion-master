@@ -38,13 +38,13 @@ public class principal extends javax.swing.JFrame{
     public static List<JCheckBox> checkTags = new ArrayList<>();
     public principal(){
         initComponents();
-        //setIconImage(new ImageIcon(getClass().getResource("../Imagenes/tes.jpg")).getImage());
+        setIconImage(new ImageIcon(getClass().getResource("../Imagenes/tes.jpg")).getImage());
         ((JPanel)getContentPane()).setOpaque(false); 
-        //ImageIcon uno=new ImageIcon(this.getClass().getResource("/imagenes/factura-electrónica1.jpg"));
+        ImageIcon uno=new ImageIcon(this.getClass().getResource("/imagenes/factura-electrónica1.jpg"));
         JLabel fondo= new JLabel();
-        //fondo.setIcon(uno); 
+        fondo.setIcon(uno); 
         getLayeredPane().add(fondo,JLayeredPane.FRAME_CONTENT_LAYER);
-        //fondo.setBounds(0,0,uno.getIconWidth(),uno.getIconHeight());
+        fondo.setBounds(0,0,uno.getIconWidth(),uno.getIconHeight());
     }
 
     /**

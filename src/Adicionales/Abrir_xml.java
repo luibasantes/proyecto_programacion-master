@@ -68,7 +68,7 @@ public class Abrir_xml extends InternalFrameImagen {
         AbrGuardCom.setVisible(false);
         AbrCer.setVisible(true);
         
-        //setImage("/imagenes/factura-electrónica4.jpg");
+        setImage("/imagenes/factura-electrónica4.jpg");
         archivos = new ArrayList<>();          
         nombres = new ArrayList<>(); 
         nombresTags = new ArrayList<>();
