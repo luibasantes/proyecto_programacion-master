@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Factura id="comprobante" version="1.1.0">
+    <InfoTributaria>
+        <RazonSocial>XYZ</RazonSocial>
+        <NombreComercial>XYZ</NombreComercial>
+        <RUC>0000000000001</RUC>
+        <claveAcceso>2103201301000000000000110015010000000101234567811</claveAcceso>
+        <CodDoc>01</CodDoc>
+        <Estab>001</Estab>
+        <PtoEmi>501</PtoEmi>
+        <Secuencial>000000010</Secuencial>
+        <DirMatriz>0000000000000</DirMatriz>
+    </InfoTributaria>
+    <InfoFactura>
+        <FechaEmision>21/03/2013</FechaEmision>
+        <DirEstablecimiento>AMAZONAS</DirEstablecimiento>
+        <ContribuyenteEspecial>12345</ContribuyenteEspecial>
+        <ObligadoContabilidad>SI</ObligadoContabilidad>
+        <TipoIdentificacionComprador>04</TipoIdentificacionComprador>
+        <RazonSocialComprador>SRI PRUEBAS</RazonSocialComprador>
+        <IdentificacionComprador>1760013210001</IdentificacionComprador>
+        <TotalSinImpuestos>0.00</TotalSinImpuestos>
+        <TotalDescuento>0.00</TotalDescuento>
+        <TotalConImpuestos>
+            <TotalImpuesto>
+                <CodigoPorcentaje>6</CodigoPorcentaje>
+				<DescuentoAdicional>0</DescuentoAdicional>
+                <BaseImponible>0.00</BaseImponible>
+                <Valor>0.00</Valor>
+            </TotalImpuesto>
+	</TotalConImpuestos>
+            <Propina>0.00</Propina>
+        <ImporteTotal>0.00</ImporteTotal>
+        <Moneda>DOLAR</Moneda>
+    </InfoFactura>
+    	<Retenciones>
+        <Retencion>
+	    <CodigoPorcentaje>327</CodigoPorcentaje>
+	    <Tarifa>0.00</Tarifa>	    
+	    <Valor>0.00</Valor>
+        </Retencion>
+        </Retenciones>
+    <InfoAdicional>
+        <CampoAdicional nombre="Email">sri@gob.ec</CampoAdicional>
+    </InfoAdicional>
+</Factura>

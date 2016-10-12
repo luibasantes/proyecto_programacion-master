@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><Autorizacion>
+  <estado>AUTORIZADO</estado>
+  <numeroAutorizacion>0402201512342317900047240012655050151</numeroAutorizacion>
+  <fechaAutorizacion>miércoles, 04 de febrero de 2015</fechaAutorizacion>
+  <ambiente>PRODUCCIÓN</ambiente>
+  <comprobante>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;factura id=&quot;comprobante&quot; version=&quot;1.1.0&quot;&gt;&lt;infoTributaria&gt;&lt;ambiente&gt;2&lt;/ambiente&gt;&lt;tipoEmision&gt;1&lt;/tipoEmision&gt;&lt;razonSocial&gt;ACERIA DEL ECUADOR CA ADELCA&lt;/razonSocial&gt;&lt;nombreComercial&gt;ADELCA&lt;/nombreComercial&gt;&lt;ruc&gt;1790004724001&lt;/ruc&gt;&lt;claveAcceso&gt;0402201501179000472400120020250000017289015540711&lt;/claveAcceso&gt;&lt;codDoc&gt;01&lt;/codDoc&gt;&lt;estab&gt;002&lt;/estab&gt;&lt;ptoEmi&gt;025&lt;/ptoEmi&gt;&lt;secuencial&gt;000001728&lt;/secuencial&gt;&lt;dirMatriz&gt;Calle del establo lote 50 y del Charro, Edificio Site Center Torre 1 Piso 1 Oficina 108&lt;/dirMatriz&gt;&lt;/infoTributaria&gt;&lt;infoFactura&gt;&lt;fechaEmision&gt;04/02/2015&lt;/fechaEmision&gt;&lt;dirEstablecimiento&gt;Km. 10 y 1/2 Vía Daule&lt;/dirEstablecimiento&gt;&lt;contribuyenteEspecial&gt;5368&lt;/contribuyenteEspecial&gt;&lt;obligadoContabilidad&gt;SI&lt;/obligadoContabilidad&gt;&lt;tipoIdentificacionComprador&gt;04&lt;/tipoIdentificacionComprador&gt;&lt;guiaRemision&gt;002-025-000001641&lt;/guiaRemision&gt;&lt;razonSocialComprador&gt;MOSCOSO VILLAVICENCIO ERICK XAVIER &lt;/razonSocialComprador&gt;&lt;identificacionComprador&gt;0926101163001&lt;/identificacionComprador&gt;&lt;totalSinImpuestos&gt;109.42&lt;/totalSinImpuestos&gt;&lt;totalDescuento&gt;17.08&lt;/totalDescuento&gt;&lt;totalConImpuestos&gt;&lt;totalImpuesto&gt;&lt;codigo&gt;2&lt;/codigo&gt;&lt;codigoPorcentaje&gt;2&lt;/codigoPorcentaje&gt;&lt;baseImponible&gt;109.42&lt;/baseImponible&gt;&lt;tarifa&gt;12.00&lt;/tarifa&gt;&lt;valor&gt;13.13&lt;/valor&gt;&lt;/totalImpuesto&gt;&lt;/totalConImpuestos&gt;&lt;propina&gt;0.00&lt;/propina&gt;&lt;importeTotal&gt;122.55&lt;/importeTotal&gt;&lt;moneda&gt;Dólar&lt;/moneda&gt;&lt;/infoFactura&gt;&lt;detalles&gt;&lt;detalle&gt;&lt;codigoPrincipal&gt;376&lt;/codigoPrincipal&gt;&lt;descripcion&gt;CLAVO COMUN LISO C/C 65x3.45 25K&lt;/descripcion&gt;&lt;cantidad&gt;2.000000 &lt;/cantidad&gt;&lt;precioUnitario&gt;28.000000&lt;/precioUnitario&gt;&lt;descuento&gt;7.56 &lt;/descuento&gt;&lt;precioTotalSinImpuesto&gt;48.44&lt;/precioTotalSinImpuesto&gt;&lt;detallesAdicionales&gt;&lt;detAdicional nombre=&quot;porcentajeDescuento&quot; valor=&quot;13.50&quot;&gt;&lt;/detAdicional&gt;&lt;detAdicional nombre=&quot;unidadMedida&quot; valor=&quot;CJ&quot;&gt;&lt;/detAdicional&gt;&lt;detAdicional nombre=&quot;pesoKG&quot; valor=&quot;50.000&quot;&gt;&lt;/detAdicional&gt;&lt;/detallesAdicionales&gt;&lt;impuestos&gt;&lt;impuesto&gt;&lt;codigo&gt;2&lt;/codigo&gt;&lt;codigoPorcentaje&gt;2&lt;/codigoPorcentaje&gt;&lt;tarifa&gt;12.00&lt;/tarifa&gt;&lt;baseImponible&gt;48.44&lt;/baseImponible&gt;&lt;valor&gt;5.81&lt;/valor&gt;&lt;/impuesto&gt;&lt;/impuestos&gt;&lt;/detalle&gt;&lt;detalle&gt;&lt;codigoPrincipal&gt;363&lt;/codigoPrincipal&gt;&lt;descripcion&gt;ALAMBRE RECOCIDO 1.25mm 20K&lt;/descripcion&gt;&lt;cantidad&gt;3.000000 &lt;/cantidad&gt;&lt;precioUnitario&gt;23.500000&lt;/precioUnitario&gt;&lt;descuento&gt;9.52 &lt;/descuento&gt;&lt;precioTotalSinImpuesto&gt;60.98&lt;/precioTotalSinImpuesto&gt;&lt;detallesAdicionales&gt;&lt;detAdicional nombre=&quot;porcentajeDescuento&quot; valor=&quot;13.50&quot;&gt;&lt;/detAdicional&gt;&lt;detAdicional nombre=&quot;unidadMedida&quot; valor=&quot;ROL&quot;&gt;&lt;/detAdicional&gt;&lt;detAdicional nombre=&quot;pesoKG&quot; valor=&quot;60.000&quot;&gt;&lt;/detAdicional&gt;&lt;/detallesAdicionales&gt;&lt;impuestos&gt;&lt;impuesto&gt;&lt;codigo&gt;2&lt;/codigo&gt;&lt;codigoPorcentaje&gt;2&lt;/codigoPorcentaje&gt;&lt;tarifa&gt;12.00&lt;/tarifa&gt;&lt;baseImponible&gt;60.98&lt;/baseImponible&gt;&lt;valor&gt;7.32&lt;/valor&gt;&lt;/impuesto&gt;&lt;/impuestos&gt;&lt;/detalle&gt;&lt;/detalles&gt;&lt;infoAdicional&gt;&lt;campoAdicional nombre=&quot;CiudadMatriz&quot;&gt;QUITO&lt;/campoAdicional&gt;&lt;campoAdicional nombre=&quot;CiudadSucursal&quot;&gt;GUAYAQUIL&lt;/campoAdicional&gt;&lt;campoAdicional nombre=&quot;FechaVencimiento&quot;&gt;04.02.2015&lt;/campoAdicional&gt;&lt;campoAdicional nombre=&quot;OficinaVenta&quot;&gt;OF. VTAS GUAYAQUIL&lt;/campoAdicional&gt;&lt;campoAdicional nombre=&quot;DireccionEntrega&quot;&gt;CDLA. SAUCES V MZ F-243 SL-3 A MEDIA CUADRA DE FARMACIA SANA SANA,GUAYAQUIL&lt;/campoAdicional&gt;&lt;campoAdicional nombre=&quot;CodigoSAP&quot;&gt;0090155407&lt;/campoAdicional&gt;&lt;campoAdicional nombre=&quot;PesoBruto&quot;&gt;110.000&lt;/campoAdicional&gt;&lt;/infoAdicional&gt;&lt;ds:Signature xmlns:ds=&quot;http://www.w3.org/2000/09/xmldsig#&quot; xmlns:etsi=&quot;http://uri.etsi.org/01903/v1.3.2#&quot; Id=&quot;Signature463105&quot;&gt;
+&lt;ds:SignedInfo Id=&quot;Signature-SignedInfo652847&quot;&gt;
+&lt;ds:CanonicalizationMethod Algorithm=&quot;http://www.w3.org/TR/2001/REC-xml-c14n-20010315&quot;&gt;&lt;/ds:CanonicalizationMethod&gt;
+&lt;ds:SignatureMethod Algorithm=&quot;http://www.w3.org/2000/09/xmldsig#rsa-sha1&quot;&gt;&lt;/ds:SignatureMethod&gt;
+&lt;ds:Reference Id=&quot;SignedPropertiesID759319&quot; Type=&quot;http://uri.etsi.org/01903#SignedProperties&quot; URI=&quot;#Signature463105-SignedProperties751783&quot;&gt;
+&lt;ds:DigestMethod Algorithm=&quot;http://www.w3.org/2000/09/xmldsig#sha1&quot;&gt;&lt;/ds:DigestMethod&gt;
+&lt;ds:DigestValue&gt;xoqpWGo3Ez+H6zzdFtPC8/Skk8A=&lt;/ds:DigestValue&gt;
+&lt;/ds:Reference&gt;
+&lt;ds:Reference URI=&quot;#Certificate1761735&quot;&gt;
+&lt;ds:DigestMethod Algorithm=&quot;http://www.w3.org/2000/09/xmldsig#sha1&quot;&gt;&lt;/ds:DigestMethod&gt;
+&lt;ds:DigestValue&gt;UPxfGwtz0KbseIpiCWAUO71LPOs=&lt;/ds:DigestValue&gt;
+&lt;/ds:Reference&gt;
+&lt;ds:Reference Id=&quot;Reference-ID-161263&quot; URI=&quot;#comprobante&quot;&gt;
+&lt;ds:Transforms&gt;
+&lt;ds:Transform Algorithm=&quot;http://www.w3.org/2000/09/xmldsig#enveloped-signature&quot;&gt;&lt;/ds:Transform&gt;
+&lt;/ds:Transforms&gt;
+&lt;ds:DigestMethod Algorithm=&quot;http://www.w3.org/2000/09/xmldsig#sha1&quot;&gt;&lt;/ds:DigestMethod&gt;
+&lt;ds:DigestValue&gt;ja8TWvhDbroZHSk1iMAPvuJozH4=&lt;/ds:DigestValue&gt;
+&lt;/ds:Reference&gt;
+&lt;/ds:SignedInfo&gt;
+&lt;ds:SignatureValue Id=&quot;SignatureValue473816&quot;&gt;
+JypSjdH0wF7ktRz/HnLlemB6o+fEcjzYFXXxG3kSVi6tb9ASmduFZlany4tU4s8dfBjELxoBQg0B
+ouwPBjfB40D/76oN/ZXZmzqRlLR+nc2LFIyhJoRprKAEw5lVqWo6eqacFkNS12U7LyHxiLFFYuqc
+2qgrvWrhvm5kv01hnMMki6WbuMK6Xs5/ykBbEL7ekNrOqqy0XqykELR7hFwOWiyCVK3w6fxQgYXR
+okVgc+Nqf5m5KO3eJaSq1O2zz9yE9dkYWDRIpTFNBQKgzuaoVXpFAtzThzWgYUQE1WV3iWzfO8fO
+UUPrVc6zD9pY23MtFHuHCt+rDWgbCDUzYeTF1g==
+&lt;/ds:SignatureValue&gt;
+&lt;ds:KeyInfo Id=&quot;Certificate1761735&quot;&gt;
+&lt;ds:X509Data&gt;
+&lt;ds:X509Certificate&gt;
+MIIJZjCCB06gAwIBAgIETkLR2DANBgkqhkiG9w0BAQsFADCBoTELMAkGA1UEBhMCRUMxIjAgBgNV
+BAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsTLkVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxB
+QyBCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMB4XDTE0MDYxMDE3NDQ1MloXDTE1MDYxMDE4MTQ1
+MlowgbcxCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcw
+NQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJQkNFMQ4w
+DAYDVQQHEwVRVUlUTzE7MBEGA1UEBRMKMDAwMDA3MjA1ODAmBgNVBAMTH01BUkpPUklFIEpBWk1J
+TiBDQUJFWkFTIEdVRVJST04wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC9AozIoOMP
+V+o/ZEuNZqHykVZxtqizZnN0B/K8sxNOKT7oXO7jTAKk2xMSiMi2yUlP/QQoLgDdYZN+ZKH8rOjm
+GAASizGIy7qhL6LLFJ/qmnvDpJwZ7aU0DAf1uKeTXgbrdOXMZtjL/nPFC/WzzeVupYF1NNPy+uYu
+BaVZXZdCeEiCxbuoDAXkPo4inhfb+T0VRROJ1+m0zmUDy85R+Tc9myJXqL1XOg1qNOkyRPgTWOkq
+bbGA4FZate9w8Nb5z9Q3wmOBX0G2UsZYHzG4AvR2jJZKX6qGmpn9+f+FRA9tQeEQZvkhyoKQfrLy
+6mVhZBqqsC7uVFChTAPdUyxgjl2bAgMBAAGjggSMMIIEiDALBgNVHQ8EBAMCBSAwgZEGCCsGAQUF
+BwEBBIGEMIGBMD4GCCsGAQUFBzABhjJodHRwOi8vb2NzcC5lY2kuYmNlLmVjL2VqYmNhL3B1Ymxp
+Y3dlYi9zdGF0dXMvb2NzcDA/BggrBgEFBQcwAYYzaHR0cDovL29jc3AxLmVjaS5iY2UuZWMvZWpi
+Y2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMCwGCisGAQQBgqg7AwoEHhMcQUNFUklBIERFTCBFQ1VB
+RE9SIENBIEFERUxDQTAdBgorBgEEAYKoOwMLBA8TDTE3OTAwMDQ3MjQwMDEwGgYKKwYBBAGCqDsD
+AQQMEwowNDAxMTcxODcxMB8GCisGAQQBgqg7AwIEERMPTUFSSk9SSUUgSkFaTUlOMBcGCisGAQQB
+gqg7AwMECRMHQ0FCRVpBUzAXBgorBgEEAYKoOwMEBAkTB0dVRVJST04wIQYKKwYBBAGCqDsDBQQT
+ExFBTkFMSVNUQSBDT05UQUJMRTAwBgorBgEEAYKoOwMHBCITIERFTCBFU1RBQkxPIExPVEUgNTAg
+WSBERUwgQ0hBUlJPMBkGCisGAQQBgqg7AwgECxMJMDIzOTY4MTAwMBUGCisGAQQBgqg7AwkEBxMF
+UXVpdG8wFwYKKwYBBAGCqDsDDAQJEwdFQ1VBRE9SMCAGCisGAQQBgqg7AzMEEhMQU09GVFdBUkUt
+QVJDSElWTzAeBgNVHREEFzAVgRNtY2FiZXphc0BhZGVsY2EuY29tMIIB3wYDVR0fBIIB1jCCAdIw
+ggHOoIIByqCCAcaGgdVsZGFwOi8vYmNlcWxkYXBzdWJwMS5iY2UuZWMvY249Q1JMMTM0LGNuPUFD
+JTIwQkFOQ08lMjBDRU5UUkFMJTIwREVMJTIwRUNVQURPUixsPVFVSVRPLG91PUVOVElEQUQlMjBE
+RSUyMENFUlRJRklDQUNJT04lMjBERSUyMElORk9STUFDSU9OLUVDSUJDRSxvPUJBTkNPJTIwQ0VO
+VFJBTCUyMERFTCUyMEVDVUFET1IsYz1FQz9jZXJ0aWZpY2F0ZVJldm9jYXRpb25MaXN0P2Jhc2WG
+NGh0dHA6Ly93d3cuZWNpLmJjZS5lYy9DUkwvZWNpX2JjZV9lY19jcmxmaWxlY29tYi5jcmykgbUw
+gbIxCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcwNQYD
+VQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJQkNFMQ4wDAYD
+VQQHEwVRVUlUTzElMCMGA1UEAxMcQUMgQkFOQ08gQ0VOVFJBTCBERUwgRUNVQURPUjEPMA0GA1UE
+AxMGQ1JMMTM0MB8GA1UdIwQYMBaAFBj58PvmMhyZZjkqyouyaX1JJ7/OMB0GA1UdDgQWBBQ898h1
++A6oA68LXc40nKHiwbRSyjAJBgNVHRMEAjAAMBkGCSqGSIb2fQdBAAQMMAobBFY4LjEDAgSwMA0G
+CSqGSIb3DQEBCwUAA4ICAQB1hQxBwoS0dZHFoCxO0JJu2410GeT30dU3G7MKBQ8tO7HuZcqOiTNj
+oDOiTufVkcVgriWRESuRfb90F92cHKXLfvAKGHWVMndu8Ln0GSWR+3X4PA8EXnonz8C/KjWUpcEI
+b3Um4mi240kxr1uYcnS5bDhNNeZPgjKRdOdWMxjl1zBvJlq3Nf+ryIqL7NskIVFnghTqZ4B4pS8z
+XkhNl2vDugk2zH3+9cPWBraMqYT/PsmS5C5oozc6HJxWy7ZXi2wGn77y4G8KvGMKmgnTgw5NGgcg
+Rx2EsDiozsrKN5rTP0q6t8IcQJDwJ8nij2+jtlRnrkX+/hb83ufIY30EMoWE7bxVyWz9JieuSq0e
+s5V1C/25nCer0kQzxrK38ilr9o5lePFsmbo2DNJgT/GwcUC7eHe7lJPrN+mD/cAv5tNTttsuddXH
+AE5Bux/WkDBgyt9bivWP6Gy1NeXgyn8gnAedQebV50AfiYWVkyc4NxAevTdBtLseS1MztquB2xKn
+XONieJyYvtbi5FtDDZaYRyWxagntABezKB5Az2P5HepCKFSFAmGXWdakwrFQp1byT9q6q4Z84xKR
+RhqLuaj4KAFMOsdkVwOHoFs6Ji4efQ9lsftbzyKcfSJ2mvVmXXnIQl08ldZVGI/SzFW8hlJuZMnn
+g6Z4o0sm3VFn/HouRnWW/g==
+&lt;/ds:X509Certificate&gt;
+&lt;/ds:X509Data&gt;
+&lt;ds:KeyValue&gt;
+&lt;ds:RSAKeyValue&gt;
+&lt;ds:Modulus&gt;
+vQKMyKDjD1fqP2RLjWah8pFWcbaos2ZzdAfyvLMTTik+6Fzu40wCpNsTEojItslJT/0EKC4A3WGT
+fmSh/Kzo5hgAEosxiMu6oS+iyxSf6pp7w6ScGe2lNAwH9bink14G63TlzGbYy/5zxQv1s83lbqWB
+dTTT8vrmLgWlWV2XQnhIgsW7qAwF5D6OIp4X2/k9FUUTidfptM5lA8vOUfk3PZsiV6i9VzoNajTp
+MkT4E1jpKm2xgOBWWrXvcPDW+c/UN8JjgV9BtlLGWB8xuAL0doyWSl+qhpqZ/fn/hUQPbUHhEGb5
+IcqCkH6y8uplYWQaqrAu7lRQoUwD3VMsYI5dmw==
+&lt;/ds:Modulus&gt;
+&lt;ds:Exponent&gt;AQAB&lt;/ds:Exponent&gt;
+&lt;/ds:RSAKeyValue&gt;
+&lt;/ds:KeyValue&gt;
+&lt;/ds:KeyInfo&gt;
+&lt;ds:Object Id=&quot;Signature463105-Object934688&quot;&gt;&lt;etsi:QualifyingProperties Target=&quot;#Signature463105&quot;&gt;&lt;etsi:SignedProperties Id=&quot;Signature463105-SignedProperties751783&quot;&gt;&lt;etsi:SignedSignatureProperties&gt;&lt;etsi:SigningTime&gt;2015-02-04T12:31:18-05:00&lt;/etsi:SigningTime&gt;&lt;etsi:SigningCertificate&gt;&lt;etsi:Cert&gt;&lt;etsi:CertDigest&gt;&lt;ds:DigestMethod Algorithm=&quot;http://www.w3.org/2000/09/xmldsig#sha1&quot;&gt;&lt;/ds:DigestMethod&gt;&lt;ds:DigestValue&gt;GAZNLMorRE/zRFivtuvrXFgnkwY=&lt;/ds:DigestValue&gt;&lt;/etsi:CertDigest&gt;&lt;etsi:IssuerSerial&gt;&lt;ds:X509IssuerName&gt;CN=AC BANCO CENTRAL DEL ECUADOR,L=QUITO,OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE,O=BANCO CENTRAL DEL ECUADOR,C=EC&lt;/ds:X509IssuerName&gt;&lt;ds:X509SerialNumber&gt;1313001944&lt;/ds:X509SerialNumber&gt;&lt;/etsi:IssuerSerial&gt;&lt;/etsi:Cert&gt;&lt;/etsi:SigningCertificate&gt;&lt;/etsi:SignedSignatureProperties&gt;&lt;etsi:SignedDataObjectProperties&gt;&lt;etsi:DataObjectFormat ObjectReference=&quot;#Reference-ID-161263&quot;&gt;&lt;etsi:Description&gt;contenido comprobante&lt;/etsi:Description&gt;&lt;etsi:MimeType&gt;text/xml&lt;/etsi:MimeType&gt;&lt;/etsi:DataObjectFormat&gt;&lt;/etsi:SignedDataObjectProperties&gt;&lt;/etsi:SignedProperties&gt;&lt;/etsi:QualifyingProperties&gt;&lt;/ds:Object&gt;&lt;/ds:Signature&gt;&lt;/factura&gt;</comprobante>
+</Autorizacion>

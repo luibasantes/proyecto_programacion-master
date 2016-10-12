@@ -1,0 +1,1438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autorizacion>
+  <estado>AUTORIZADO</estado>
+  <numeroAutorizacion>0911201421123409900041960011323325827</numeroAutorizacion>
+  <fechaAutorizacion class="fechaAutorizacion">09/11/2014 21:12:34</fechaAutorizacion>
+  <comprobante><![CDATA[<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+  <factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>CORPORACION EL ROSADO S.A.</razonSocial>
+    <nombreComercial>MI COMISARIATO</nombreComercial>
+    <ruc>0990004196001</ruc>
+    <claveAcceso>0911201401099000419600120760040000165410990004119</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>076</estab>
+    <ptoEmi>004</ptoEmi>
+    <secuencial>000016541</secuencial>
+    <dirMatriz>AV. 9 DE OCTUBRE Y BOYACA 729 GUAYAQUIL</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>09/11/2014</fechaEmision>
+    <dirEstablecimiento>AV.FRANCISCO DE ORELLANA S/N; AV.GUILLERMO PAREJA KM 1.5</dirEstablecimiento>
+    <contribuyenteEspecial>6925</contribuyenteEspecial>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>MOSCOSO ERICK</razonSocialComprador>
+    <identificacionComprador>0926101163001</identificacionComprador>
+    <totalSinImpuestos>170.35</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>0</codigoPorcentaje>
+        <baseImponible>62.82</baseImponible>
+        <tarifa>0</tarifa>
+        <valor>0.00</valor>
+      </totalImpuesto>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>2</codigoPorcentaje>
+        <baseImponible>107.53</baseImponible>
+        <tarifa>12</tarifa>
+        <valor>12.90</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>183.25</importeTotal>
+    <moneda>DOLAR</moneda>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>006554</codigoPrincipal>
+      <descripcion>PAN MOLDE</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>1.33</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>1.33</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>1.33</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>031023</codigoPrincipal>
+      <descripcion>GALLETA SA</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>1.38</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>1.38</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>1.38</baseImponible>
+          <valor>0.17</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>003862</codigoPrincipal>
+      <descripcion>SALSA TOMA</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>0.79</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.79</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>0.79</baseImponible>
+          <valor>0.09</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>005599</codigoPrincipal>
+      <descripcion>QUESO PARM</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>0.99</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.99</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>0.99</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>006579</codigoPrincipal>
+      <descripcion>PAN MOLDE</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>2.23</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>2.23</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>2.23</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>001939</codigoPrincipal>
+      <descripcion>HARINA DE</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>1.62</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>1.62</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>1.62</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>335004</codigoPrincipal>
+      <descripcion>ARROZ CEBA</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>0.76</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.76</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>0.76</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>355380</codigoPrincipal>
+      <descripcion>MARGARINA</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>0.52</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.52</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>0.52</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>355085</codigoPrincipal>
+      <descripcion>QUESO FRES</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>1.90</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>1.90</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>1.90</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>566659</codigoPrincipal>
+      <descripcion>TE MANZANI</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>1.43</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>1.43</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>1.43</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>355049</codigoPrincipal>
+      <descripcion>QUESO MOZA</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>3.84</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>3.84</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>3.84</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>119023</codigoPrincipal>
+      <descripcion>FIDEO 400G</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>0.79</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.79</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>0.79</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>567218</codigoPrincipal>
+      <descripcion>CAFE GRANU</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>3.88</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>3.88</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>3.88</baseImponible>
+          <valor>0.47</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>335161</codigoPrincipal>
+      <descripcion>FREJOL CAN</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>2.79</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>2.79</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>2.79</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>001633</codigoPrincipal>
+      <descripcion>ACEITE VID</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>5.42</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>5.42</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>5.42</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>335475</codigoPrincipal>
+      <descripcion>AZUCAR MOR</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>1.86</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>1.86</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>1.86</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>005347</codigoPrincipal>
+      <descripcion>LECHE POLV</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>1.63</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>1.63</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>1.63</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>070894</codigoPrincipal>
+      <descripcion>CANGUIL 50</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>0.79</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.79</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>0.79</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>135127</codigoPrincipal>
+      <descripcion>TOALLA SAN</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>3.35</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>3.35</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>3.35</baseImponible>
+          <valor>0.40</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>115024</codigoPrincipal>
+      <descripcion>SALSA INGL</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>0.75</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.75</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>0.75</baseImponible>
+          <valor>0.09</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>567647</codigoPrincipal>
+      <descripcion>SALSA CHIN</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>0.93</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.93</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>0.93</baseImponible>
+          <valor>0.11</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>004746</codigoPrincipal>
+      <descripcion>ATUN ACEIT</descripcion>
+      <cantidad>4.000</cantidad>
+      <precioUnitario>1.02</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>4.08</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>4.08</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>567617</codigoPrincipal>
+      <descripcion>SARDINA EN</descripcion>
+      <cantidad>2.000</cantidad>
+      <precioUnitario>0.78</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>1.56</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>1.56</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>004571</codigoPrincipal>
+      <descripcion>AJI PARA S</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>0.42</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.42</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>0.42</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>001930</codigoPrincipal>
+      <descripcion>LENTEJON 5</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>0.83</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.83</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>0.83</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>562698</codigoPrincipal>
+      <descripcion>SERVILLETA</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>0.68</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.68</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>0.68</baseImponible>
+          <valor>0.08</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>433343</codigoPrincipal>
+      <descripcion>PASTA DENT</descripcion>
+      <cantidad>7.000</cantidad>
+      <precioUnitario>2.17</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>15.19</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>15.19</baseImponible>
+          <valor>1.82</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>140222</codigoPrincipal>
+      <descripcion>PASTA DENT</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>3.13</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>3.13</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>3.13</baseImponible>
+          <valor>0.38</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>074834</codigoPrincipal>
+      <descripcion>SHAMPOO 2-</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>4.80</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>4.80</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>4.80</baseImponible>
+          <valor>0.58</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>116045</codigoPrincipal>
+      <descripcion>SHAMPOO PR</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>5.35</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>5.35</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>5.35</baseImponible>
+          <valor>0.64</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>141991</codigoPrincipal>
+      <descripcion>JABON TONO</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>2.13</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>2.13</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>2.13</baseImponible>
+          <valor>0.26</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>078050</codigoPrincipal>
+      <descripcion>JABON LIMP</descripcion>
+      <cantidad>2.000</cantidad>
+      <precioUnitario>2.10</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>4.20</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>4.20</baseImponible>
+          <valor>0.50</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>006206</codigoPrincipal>
+      <descripcion>FIDEO TALL</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>1.31</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>1.31</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>1.31</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>000174</codigoPrincipal>
+      <descripcion>CULANTRO A</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>0.56</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.56</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>0.56</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>073600</codigoPrincipal>
+      <descripcion>FDA PLASTI</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>1.51</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>1.51</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>1.51</baseImponible>
+          <valor>0.18</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>002990</codigoPrincipal>
+      <descripcion>FOSFOROS C</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>0.79</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.79</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>0.79</baseImponible>
+          <valor>0.09</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>432339</codigoPrincipal>
+      <descripcion>MAQ AFEIT</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>2.70</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>2.70</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>2.70</baseImponible>
+          <valor>0.32</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>433506</codigoPrincipal>
+      <descripcion>JABON SUAV</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>2.22</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>2.22</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>2.22</baseImponible>
+          <valor>0.27</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>143114</codigoPrincipal>
+      <descripcion>GEL BLACK</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>1.32</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>1.32</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>1.32</baseImponible>
+          <valor>0.16</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>138754</codigoPrincipal>
+      <descripcion>DESOD ROLL</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>1.99</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>1.99</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>1.99</baseImponible>
+          <valor>0.24</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>944255</codigoPrincipal>
+      <descripcion>DESOD ROLL</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>0.92</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.92</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>0.92</baseImponible>
+          <valor>0.11</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>350229</codigoPrincipal>
+      <descripcion>LECHE ENTE</descripcion>
+      <cantidad>2.000</cantidad>
+      <precioUnitario>1.03</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>2.06</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>2.06</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>335378</codigoPrincipal>
+      <descripcion>SAL SUPER</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>0.68</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.68</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>0.68</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>137084</codigoPrincipal>
+      <descripcion>CHAMPIÑONE</descripcion>
+      <cantidad>2.000</cantidad>
+      <precioUnitario>3.85</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>7.70</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>7.70</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>000175</codigoPrincipal>
+      <descripcion>CEBOLLA BL</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>1.40</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>1.40</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>1.40</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>000140</codigoPrincipal>
+      <descripcion>JENGIBRE K</descripcion>
+      <cantidad>0.145</cantidad>
+      <precioUnitario>2.38</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.35</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>0.35</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>000167</codigoPrincipal>
+      <descripcion>ACELGA ATA</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>0.46</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.46</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>0.46</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>001824</codigoPrincipal>
+      <descripcion>HARINA MOR</descripcion>
+      <cantidad>2.000</cantidad>
+      <precioUnitario>0.89</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>1.78</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>1.78</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>002934</codigoPrincipal>
+      <descripcion>PAPEL HIG</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>2.67</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>2.67</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>2.67</baseImponible>
+          <valor>0.32</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>002937</codigoPrincipal>
+      <descripcion>PAPEL HIG</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>4.73</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>4.73</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>4.73</baseImponible>
+          <valor>0.57</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>345316</codigoPrincipal>
+      <descripcion>DESINF FAB</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>3.23</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>3.23</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>3.23</baseImponible>
+          <valor>0.39</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>002834</codigoPrincipal>
+      <descripcion>PAPEL ALUM</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>1.78</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>1.78</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>1.78</baseImponible>
+          <valor>0.21</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>390580</codigoPrincipal>
+      <descripcion>BLANQ SACH</descripcion>
+      <cantidad>6.000</cantidad>
+      <precioUnitario>0.11</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.66</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>0.66</baseImponible>
+          <valor>0.08</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>052310</codigoPrincipal>
+      <descripcion>DETERG 4KG</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>7.90</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>7.90</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>7.90</baseImponible>
+          <valor>0.95</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>000036</codigoPrincipal>
+      <descripcion>ESPINACA K</descripcion>
+      <cantidad>0.135</cantidad>
+      <precioUnitario>0.80</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.11</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>0.11</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>051696</codigoPrincipal>
+      <descripcion>DETERG 2KG</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>4.45</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>4.45</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>4.45</baseImponible>
+          <valor>0.53</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>000118</codigoPrincipal>
+      <descripcion>YUCA</descripcion>
+      <cantidad>1.035</cantidad>
+      <precioUnitario>0.38</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.39</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>0.39</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>330206</codigoPrincipal>
+      <descripcion>PIMIENTO M</descripcion>
+      <cantidad>0.175</cantidad>
+      <precioUnitario>2.47</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.43</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>0.43</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>330180</codigoPrincipal>
+      <descripcion>PIMIENTO M</descripcion>
+      <cantidad>0.165</cantidad>
+      <precioUnitario>2.39</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.39</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>0.39</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>000126</codigoPrincipal>
+      <descripcion>ZANAHORIA</descripcion>
+      <cantidad>0.595</cantidad>
+      <precioUnitario>1.15</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.68</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>0.68</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>330199</codigoPrincipal>
+      <descripcion>TOMATE RIÑ</descripcion>
+      <cantidad>1.040</cantidad>
+      <precioUnitario>1.35</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>1.40</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>1.40</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>000119</codigoPrincipal>
+      <descripcion>ZAPALLO KI</descripcion>
+      <cantidad>0.825</cantidad>
+      <precioUnitario>0.42</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.35</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>0.35</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>330335</codigoPrincipal>
+      <descripcion>LECHUGA CE</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>0.73</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.73</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>0.73</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>284481</codigoPrincipal>
+      <descripcion>LECHUGA HI</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>0.78</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.78</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>0.78</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>000017</codigoPrincipal>
+      <descripcion>COL VERDE</descripcion>
+      <cantidad>1.320</cantidad>
+      <precioUnitario>0.24</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.32</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>0.32</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>000035</codigoPrincipal>
+      <descripcion>DURAZNO EX</descripcion>
+      <cantidad>0.220</cantidad>
+      <precioUnitario>3.78</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.83</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>0.83</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>000099</codigoPrincipal>
+      <descripcion>PEPINO DE</descripcion>
+      <cantidad>1.050</cantidad>
+      <precioUnitario>0.88</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.92</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>0.92</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>000098</codigoPrincipal>
+      <descripcion>PIMIENTO L</descripcion>
+      <cantidad>0.390</cantidad>
+      <precioUnitario>1.25</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.49</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>0.49</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>000165</codigoPrincipal>
+      <descripcion>APIO VERDE</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>0.35</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.35</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>0.35</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>000020</codigoPrincipal>
+      <descripcion>CEBOLLA PE</descripcion>
+      <cantidad>0.790</cantidad>
+      <precioUnitario>1.22</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.96</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>0.96</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>000016</codigoPrincipal>
+      <descripcion>VETERABA K</descripcion>
+      <cantidad>0.750</cantidad>
+      <precioUnitario>0.34</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.25</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>0.25</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>000058</codigoPrincipal>
+      <descripcion>LIMON SUTI</descripcion>
+      <cantidad>0.605</cantidad>
+      <precioUnitario>2.27</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>1.37</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>1.37</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>000282</codigoPrincipal>
+      <descripcion>MANZANA RO</descripcion>
+      <cantidad>0.495</cantidad>
+      <precioUnitario>1.97</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.98</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>0.98</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>115306</codigoPrincipal>
+      <descripcion>ALFOMB HOM</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>24.10</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>24.10</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>24.10</baseImponible>
+          <valor>2.89</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="formaPago">MASTERCARD DEBIT PAC,183.25</campoAdicional>
+    <campoAdicional nombre="deducibleComestible">70.55</campoAdicional>
+    <campoAdicional nombre="logo">SUPERMERCADO</campoAdicional>
+  </infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="Signature-24671462">
+	<ds:SignedInfo>
+		<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+		<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+		<ds:Reference URI="#comprobante">
+			<ds:Transforms>
+				<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+			</ds:Transforms>
+			<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+			<ds:DigestValue>lfku2v8G6VfrnCiJcyv33wkRH2A=</ds:DigestValue>
+		</ds:Reference>
+		<ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#SignedProperties-2052050199">
+			<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+			<ds:DigestValue>33htnZ2KpY9ew1VtbiQd5M2yZ4Q=</ds:DigestValue>
+		</ds:Reference>
+	</ds:SignedInfo>
+	<ds:SignatureValue>
+TO1+JsQH08GEcgjajzEsNzNV95k57qI8vlifH+VYu7L1dds7SdPS8xebhlilorlJ
+/4+ii0CD6jXOJyUOUpvLCFgmLIvD7t3Q9e5+29yFJ7+cpy8DRgEFezVoKnLc3VJB
++wxM2MWgU8wwyaQdVmLpEMGh93l4PmUUGiGsdj3pI+P6Zo2l+hrRo84NJBEE34BQ
+JoSUqWBxuZUxmZvGKl8D3v0w3rAdj7F5kBfzZhYO2qtWQYQdgDHSV/9AsMa7ChZ8
+UpguztdvqKkvcZ+QCsj6+JrVCZ3NwUPgE2ASbEPacpyZaAmmHcuGqoB6XuCbwbZw
+lLcn4hpDsH2o6Be5PIzRhg==
+	</ds:SignatureValue>
+	<ds:KeyInfo>
+		<ds:KeyValue>
+			<ds:RSAKeyValue>
+				<ds:Modulus>
+tgu85kABF6XojRKbwaV0zspJvDvQZqup6UTintjRoVvKzi6EhKnYQ4lKTrw69kf9
+Fd3Ab5L3fOdAtuvoKDH5AB2R5GJoyLa6y1/BZp1z6KJQFv40ulQ86QV+t4wXcY1D
+lmkDcVwejMsf0Z66B4qAWI8dFQGIlpZwo17Ad+aWiqvf450q2zwz/Y1jedwiz6Fy
+ibrJUpzovU1/X8b5+N37q0SJrkSnNguKlHlUW9qK0fINAizEdqG5t3/dVZLEVJfa
+2T46RcL9Q92OYpld4+bJyYDeqSSkoCS/mbNmQKy1lQTA4Y6x5GdcxFl34mwkgJgG
+a66yDfYZY4FonqLO+3O2OQ==
+				</ds:Modulus>
+				<ds:Exponent>AQAB</ds:Exponent>
+			</ds:RSAKeyValue>
+		</ds:KeyValue>
+		<ds:X509Data>
+			<ds:X509IssuerSerial>
+				<ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUB SECURITY DATA, OU=ENTIDAD DE CERTIFICACION DE INFORMACION, O=SECURITY DATA S.A., C=EC</ds:X509IssuerName>
+				<ds:X509SerialNumber>1298012038</ds:X509SerialNumber>
+			</ds:X509IssuerSerial>
+			<ds:X509SubjectName>CN=Ivonne J.. Franco Paredes, OU=ENTIDAD DE CERTIFICACION DE INFORMACION, O=SECURITY DATA S.A., C=EC</ds:X509SubjectName>
+			<ds:X509Certificate>
+MIIJszCCCJugAwIBAgIETV4XhjANBgkqhkiG9w0BAQsFADCBkzELMAkGA1UEBhMC
+RUMxGzAZBgNVBAoTElNFQ1VSSVRZIERBVEEgUy5BLjEwMC4GA1UECxMnRU5USURB
+RCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMTUwMwYDVQQDEyxBVVRP
+UklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUIgU0VDVVJJVFkgREFUQTAeFw0xNDA5
+MTIxNDQwNDZaFw0xNjA5MTIxNTEwNDZaMIGAMQswCQYDVQQGEwJFQzEbMBkGA1UE
+ChMSU0VDVVJJVFkgREFUQSBTLkEuMTAwLgYDVQQLEydFTlRJREFEIERFIENFUlRJ
+RklDQUNJT04gREUgSU5GT1JNQUNJT04xIjAgBgNVBAMTGUl2b25uZSBKLi4gRnJh
+bmNvIFBhcmVkZXMwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC2C7zm
+QAEXpeiNEpvBpXTOykm8O9Bmq6npROKe2NGhW8rOLoSEqdhDiUpOvDr2R/0V3cBv
+kvd850C26+goMfkAHZHkYmjItrrLX8FmnXPoolAW/jS6VDzpBX63jBdxjUOWaQNx
+XB6Myx/RnroHioBYjx0VAYiWlnCjXsB35paKq9/jnSrbPDP9jWN53CLPoXKJuslS
+nOi9TX9fxvn43furRImuRKc2C4qUeVRb2orR8g0CLMR2obm3f91VksRUl9rZPjpF
+wv1D3Y5imV3j5snJgN6pJKSgJL+Zs2ZArLWVBMDhjrHkZ1zEWXfibCSAmAZrrrIN
+9hljgWieos77c7Y5AgMBAAGjggYeMIIGGjALBgNVHQ8EBAMCBsAwWQYIKwYBBQUH
+AQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5u
+ZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMIHKBgNVHSAEgcIwgb8w
+PwYKKwYBBAGCpnICCjAxMC8GCCsGAQUFBwICMCMaIUNlcnRpZmljYWRvIGRlIE1p
+ZW1icm8gZGUgRW1wcmVzYTB8BgorBgEEAYKmcgIEMG4wbAYIKwYBBQUHAgEWYGh0
+dHBzOi8vd3d3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvbGV5ZXNfbm9ybWF0aXZhcy9Q
+b2xpdGljYXMgZGUgQ2VydGlmaWNhZG8gTWllbWJybyBkZSBFbXByZXNhLnBkZjAq
+BgorBgEEAYKmcgMKBBwTGkNPUlBPUkFDSU9OIEVMIFJPU0FETyBTLkEuMB0GCisG
+AQQBgqZyAwsEDxMNMDk5MDAwNDE5NjAwMTAaBgorBgEEAYKmcgMBBAwTCjA5MTYw
+NjY4OTcwHQYKKwYBBAGCpnIDAgQPEw1Jdm9ubmUgSnVkaXRoMBYGCisGAQQBgqZy
+AwMECBMGRnJhbmNvMBcGCisGAQQBgqZyAwQECRMHUGFyZWRlczAqBgorBgEEAYKm
+cgMFBBwTGlN1cGVydmlzb3JhIGRlIFByb3ZlZWRvcmVzMCwGCisGAQQBgqZyAwcE
+HhMcQXYgOSBkZSBvY3R1YnJlIDcxOSB5IEJveWFjYTAWBgorBgEEAYKmcgMiBAgT
+BjA5MDMxMjAdBgorBgEEAYKmcgMIBA8TDTU5My00LTQzMjIwMDAwGQYKKwYBBAGC
+pnIDCQQLEwlHdWF5YXF1aWwwFwYKKwYBBAGCpnIDDAQJEwdFY3VhZG9yMCEGCisG
+AQQBgqZyAyAEExMRMDAxLTAwMi0wMDAwMDQyMzcwEwYKKwYBBAGCpnIDIQQFEwNQ
+RlgwHwYDVR0RBBgwFoEUaWZyYW5jb0BlbHJvc2Fkby5jb20wggJ5BgNVHR8EggJw
+MIICbDCCAmigggJkoIICYIY9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0
+LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcIaB1GxkYXA6Ly9kaXJlY3Qu
+c2VjdXJpdHlkYXRhLm5ldC5lYy9jbj1DUkw2NCxjbj1BVVRPUklEQUQlMjBERSUy
+MENFUlRJRklDQUNJT04lMjBTVUIlMjBTRUNVUklUWSUyMERBVEEsb3U9RU5USURB
+RCUyMERFJTIwQ0VSVElGSUNBQ0lPTiUyMERFJTIwSU5GT1JNQUNJT04sbz1TRUNV
+UklUWSUyMERBVEElMjBTLkEuLGM9RUM/Y2VydGlmaWNhdGVSZXZvY2F0aW9uTGlz
+dD9iYXNlhoGeaHR0cHM6Ly9kaXJlY3Quc2VjdXJpdHlkYXRhLm5ldC5lYy9+Y3Js
+L2F1dG9yaWRhZF9kZV9jZXJ0aWZpY2FjaW9uX3N1Yl9zZWN1cml0eV9kYXRhX2Vu
+dGlkYWRfZGVfY2VydGlmaWNhY2lvbl9kZV9pbmZvcm1hY2lvbl9jdXJpdHlfZGF0
+YV9zLmEuX2NfZWNfY3JsZmlsZS5jcmykgaYwgaMxCzAJBgNVBAYTAkVDMRswGQYD
+VQQKExJTRUNVUklUWSBEQVRBIFMuQS4xMDAuBgNVBAsTJ0VOVElEQUQgREUgQ0VS
+VElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjE1MDMGA1UEAxMsQVVUT1JJREFEIERF
+IENFUlRJRklDQUNJT04gU1VCIFNFQ1VSSVRZIERBVEExDjAMBgNVBAMTBUNSTDY0
+MCsGA1UdEAQkMCKADzIwMTQwOTEyMTQ0MDQ2WoEPMjAxNjA5MTIxNTEwNDZaMB8G
+A1UdIwQYMBaAFPcvTOB152KjeJZbBrYucTvMbD+QMB0GA1UdDgQWBBTPozpIvY3a
+mJ23QPQKrHHsKZaHbzAJBgNVHRMEAjAAMBkGCSqGSIb2fQdBAAQMMAobBFY4LjED
+AgOoMA0GCSqGSIb3DQEBCwUAA4IBAQAJFOAM/VIO7rAv1gN6ElOkyAWKs6xhbyql
+eAWeFiHwzAeffXiidkVdl3rAECaQgl6KI0J/f2O+G4OX6qYy24RlgFCqO0s59pxH
+xycOEM1KFaf0vbOiE7bqS2tKrL7zKHpBwJLrfvrk2DqxboN95Wh+iM8x+ypYH44x
+jU+k6sEMQTp7IXV9BDF5StTTCFv+vKpziTfM2IV34KVGaHSD08fHAxy90lpR3gJP
+MeR+nbdTGjsHmXe1BXCSt65eEs7nn4maESUEm1p9Qmfui1h8oOpyMAJVKRt8FgsW
+DG9Tux4P0RODlbpXT6lJQlh56XOnQEnyaNTRymNiGJ0usoo06QrI
+			</ds:X509Certificate>
+		</ds:X509Data>
+	</ds:KeyInfo>
+	<ds:Object>
+		<etsi:QualifyingProperties xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Target="#Signature-24671462">
+			<etsi:SignedProperties Id="SignedProperties-2052050199">
+				<etsi:SignedSignatureProperties>
+					<etsi:SigningTime>2014-11-09T21:11:01.215Z</etsi:SigningTime>
+					<etsi:SigningCertificate>
+						<etsi:Cert>
+							<etsi:CertDigest>
+								<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+								<ds:DigestValue>E1+rDcJ1n/HOQuF4GkzPN3DOn9E=</ds:DigestValue>
+							</etsi:CertDigest>
+							<etsi:IssuerSerial>
+								<ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUB SECURITY DATA, OU=ENTIDAD DE CERTIFICACION DE INFORMACION, O=SECURITY DATA S.A., C=EC</ds:X509IssuerName>
+								<ds:X509SerialNumber>1298012038</ds:X509SerialNumber>
+							</etsi:IssuerSerial>
+						</etsi:Cert>
+					</etsi:SigningCertificate>
+				</etsi:SignedSignatureProperties>
+			</etsi:SignedProperties>
+		</etsi:QualifyingProperties>
+	</ds:Object>
+</ds:Signature>
+</factura>
+]]></comprobante></autorizacion>

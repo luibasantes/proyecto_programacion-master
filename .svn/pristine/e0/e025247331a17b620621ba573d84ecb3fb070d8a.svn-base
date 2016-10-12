@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<autorizacion>
+  <estado>AUTORIZADO</estado>
+  <numeroAutorizacion>2601201512411001901586160012419347774</numeroAutorizacion>
+  <fechaAutorizacion>2015-01-26T12:41:10.685-05:00</fechaAutorizacion>
+  <ambiente>PRODUCCIÓN</ambiente>
+  <comprobante>&lt;factura id="comprobante" version="1.1.0"&gt;
+  &lt;infoTributaria&gt;
+    &lt;ambiente&gt;2&lt;/ambiente&gt;
+    &lt;tipoEmision&gt;1&lt;/tipoEmision&gt;
+    &lt;razonSocial&gt;MINERA ROOKAAZUL CIA LTDA&lt;/razonSocial&gt;
+    &lt;nombreComercial&gt;MINERA ROOKAAZUL CIA LTDA&lt;/nombreComercial&gt;
+    &lt;ruc&gt;0190158616001&lt;/ruc&gt;
+    &lt;claveAcceso&gt;2601201501019015861600120020510000001360020510114&lt;/claveAcceso&gt;
+    &lt;codDoc&gt;01&lt;/codDoc&gt;
+    &lt;estab&gt;002&lt;/estab&gt;
+    &lt;ptoEmi&gt;051&lt;/ptoEmi&gt;
+    &lt;secuencial&gt;000000136&lt;/secuencial&gt;
+    &lt;dirMatriz&gt;EL DESCANSO KM 15 1/2&lt;/dirMatriz&gt;
+  &lt;/infoTributaria&gt;
+  &lt;infoFactura&gt;
+    &lt;fechaEmision&gt;26/01/2015&lt;/fechaEmision&gt;
+    &lt;dirEstablecimiento&gt;KM 13 AV. LEON FEBRES CORDERO 32&lt;/dirEstablecimiento&gt;
+    &lt;contribuyenteEspecial&gt;185&lt;/contribuyenteEspecial&gt;
+    &lt;obligadoContabilidad&gt;SI&lt;/obligadoContabilidad&gt;
+    &lt;tipoIdentificacionComprador&gt;04&lt;/tipoIdentificacionComprador&gt;
+    &lt;razonSocialComprador&gt;MOSCOSO VILLAVICENCIO ERICK XAVIER&lt;/razonSocialComprador&gt;
+    &lt;identificacionComprador&gt;0926101163001&lt;/identificacionComprador&gt;
+    &lt;totalSinImpuestos&gt;87.50&lt;/totalSinImpuestos&gt;
+    &lt;totalDescuento&gt;0.00&lt;/totalDescuento&gt;
+    &lt;totalConImpuestos&gt;
+      &lt;totalImpuesto&gt;
+        &lt;codigo&gt;2&lt;/codigo&gt;
+        &lt;codigoPorcentaje&gt;0&lt;/codigoPorcentaje&gt;
+        &lt;baseImponible&gt;0.00&lt;/baseImponible&gt;
+        &lt;valor&gt;0.00&lt;/valor&gt;
+      &lt;/totalImpuesto&gt;
+      &lt;totalImpuesto&gt;
+        &lt;codigo&gt;2&lt;/codigo&gt;
+        &lt;codigoPorcentaje&gt;2&lt;/codigoPorcentaje&gt;
+        &lt;baseImponible&gt;87.50&lt;/baseImponible&gt;
+        &lt;valor&gt;10.50&lt;/valor&gt;
+      &lt;/totalImpuesto&gt;
+    &lt;/totalConImpuestos&gt;
+    &lt;propina&gt;0.00&lt;/propina&gt;
+    &lt;importeTotal&gt;98.00&lt;/importeTotal&gt;
+    &lt;moneda&gt;DOLAR&lt;/moneda&gt;
+  &lt;/infoFactura&gt;
+  &lt;detalles&gt;
+    &lt;detalle&gt;
+      &lt;codigoPrincipal&gt;PR3G&lt;/codigoPrincipal&gt;
+      &lt;codigoAuxiliar&gt;PR3G&lt;/codigoAuxiliar&gt;
+      &lt;descripcion&gt;PIEDRA 3/4 &lt;/descripcion&gt;
+      &lt;cantidad&gt;7.000&lt;/cantidad&gt;
+      &lt;precioUnitario&gt;12.500000&lt;/precioUnitario&gt;
+      &lt;descuento&gt;0.00&lt;/descuento&gt;
+      &lt;precioTotalSinImpuesto&gt;87.50&lt;/precioTotalSinImpuesto&gt;
+      &lt;impuestos&gt;
+        &lt;impuesto&gt;
+          &lt;codigo&gt;2&lt;/codigo&gt;
+          &lt;codigoPorcentaje&gt;2&lt;/codigoPorcentaje&gt;
+          &lt;tarifa&gt;12.00&lt;/tarifa&gt;
+          &lt;baseImponible&gt;87.50&lt;/baseImponible&gt;
+          &lt;valor&gt;10.50&lt;/valor&gt;
+        &lt;/impuesto&gt;
+      &lt;/impuestos&gt;
+    &lt;/detalle&gt;
+  &lt;/detalles&gt;
+  &lt;infoAdicional&gt;
+    &lt;campoAdicional nombre="DireccionComprador"&gt;VILLA CLUB&lt;/campoAdicional&gt;
+    &lt;campoAdicional nombre="TelefonoComprador"&gt;0&lt;/campoAdicional&gt;
+    &lt;campoAdicional nombre="EmailComprador"&gt;erick_moscoso@icloud.com&lt;/campoAdicional&gt;
+    &lt;campoAdicional nombre="DocumentoInterno"&gt;002-F51-136&lt;/campoAdicional&gt;
+  &lt;/infoAdicional&gt;
+&lt;Signature Id="Signature776085998" xmlns="http://www.w3.org/2000/09/xmldsig#"&gt;&lt;SignedInfo Id="SignedInfo776085998"&gt;&lt;CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /&gt;&lt;SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /&gt;&lt;Reference Id="SignedPropertiesID776085998" URI="#SignedProperties776085998" Type="http://uri.etsi.org/01903#SignedProperties"&gt;&lt;DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /&gt;&lt;DigestValue&gt;nddCmJxF8p0zJYUsEHLQqiGEqk0=&lt;/DigestValue&gt;&lt;/Reference&gt;&lt;Reference URI="#Certificate776085998"&gt;&lt;DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /&gt;&lt;DigestValue&gt;cmwi7axcEqXspcNR7al6ZFkDFGo=&lt;/DigestValue&gt;&lt;/Reference&gt;&lt;Reference Id="Reference-ID-776085998" URI="#comprobante"&gt;&lt;Transforms&gt;&lt;Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /&gt;&lt;/Transforms&gt;&lt;DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /&gt;&lt;DigestValue&gt;rVdua/07iByozrxzMN3mkC4jCmE=&lt;/DigestValue&gt;&lt;/Reference&gt;&lt;/SignedInfo&gt;&lt;SignatureValue&gt;rE5mJvfez4li6K4YD0vtRdvD1qZDwzmvBdFZvWL5QU+p/tV/9yjYA8tI12gwqlEsT2GOu4eUSbWTZT3LdECy1r8cIIuRepxVp3MLQDJ3Ynm1p1QuUGQv1gShPMdKV2vZPK2sUBh9CU+mW3VC0Zc/+UGwDSywWkcH8ImxYjCA9EyWhUjYSx1g7stTd3TXlHQRrzySIwXNjgsg9hxMjXmS6hDlikvt2ZF0vgFGZA2ReMSViQ9TdHEBOrSp84NfNmfHfNfWXu9iWepkd0OPdGWsbiDxERpBdZFtkeLDOnhnp3+Fd7xKzma9UYA7yFP2tFyFdhRhLu5qifkspX3HKfpBlA==&lt;/SignatureValue&gt;&lt;KeyInfo Id="Certificate776085998"&gt;&lt;X509Data&gt;&lt;X509Certificate&gt;MIIJ6jCCB9KgAwIBAgIETkOzrjANBgkqhkiG9w0BAQsFADCBoTELMAkGA1UEBhMCRUMxIjAgBgNVBAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsTLkVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxBQyBCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMB4XDTE0MTIwODE0NDYxNVoXDTE1MTIwODE1MTYxNVowgbIxCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcwNQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJQkNFMQ4wDAYDVQQHEwVRVUlUTzE2MBEGA1UEBRMKMDAwMDA5NDY4NjAhBgNVBAMTGkNFU0FSIEFVUkVMSU8gQlJBVk8gQkVSTkFMMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAspmeGJTYuUMHxZoAhcUhOFDy6MfDLNgf3bIycB47J8PvWfIkLjvMVMyfcmuPN3/8uc/69OrHp4zFb1IEPlxYhxScOCZ8J21CokOksAM4HY9jb9oLyfiRFgIuH1wFyxYPFIkR2T1L+MtRL/cs7N7n6cdXF4UOJG3d/5gGWJr6vH4gQu1Mr0MXH9IzfFwLyu3vMZNsG5Ak5QCcH5x/bD0kjdTOWLP3etJqbnvxsxpHq48LqAPS00VNaDDcWqePj0Wk9dJgpbWTnYwmECN0Aid2/3QRlfDxb8IqoBFbIf0G7+ujJCe5iv4FICoXSMieI2TCUbZR/WIw9FbLFsLSmCBFSQIDAQABo4IFFTCCBREwCwYDVR0PBAQDAgeAMGcGA1UdIARgMF4wXAYLKwYBBAGCqDsCAgEwTTBLBggrBgEFBQcCARY/aHR0cDovL3d3dy5lY2kuYmNlLmVjL3BvbGl0aWNhLWNlcnRpZmljYWRvL3BlcnNvbmEtanVyaWRpY2EucGRmMIGRBggrBgEFBQcBAQSBhDCBgTA+BggrBgEFBQcwAYYyaHR0cDovL29jc3AuZWNpLmJjZS5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3AwPwYIKwYBBQUHMAGGM2h0dHA6Ly9vY3NwMS5lY2kuYmNlLmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDApBgorBgEEAYKoOwMKBBsTGU1JTkVSQSBST09LQUFaVUwgQ0lBIExUREEwHQYKKwYBBAGCqDsDCwQPEw0wMTkwMTU4NjE2MDAxMBoGCisGAQQBgqg7AwEEDBMKMDEwMDE4NDIyNTAdBgorBgEEAYKoOwMCBA8TDUNFU0FSIEFVUkVMSU8wFQYKKwYBBAGCqDsDAwQHEwVCUkFWTzAWBgorBgEEAYKoOwMEBAgTBkJFUk5BTDAfBgorBgEEAYKoOwMFBBETD0dFUkVOVEUgR0VORVJBTDArBgorBgEEAYKoOwMHBB0TG1BBTkFNRVJJQ0FOQSBOT1JURSBLTSAxNSAxMjAZBgorBgEEAYKoOwMIBAsTCTA3NzAwMDM2MzAXBgorBgEEAYKoOwMJBAkTB0F6b2d1ZXMwFwYKKwYBBAGCqDsDDAQJEwdFQ1VBRE9SMCAGCisGAQQBgqg7AzMEEhMQU09GVFdBUkUtQVJDSElWTzAeBgNVHREEFzAVgRNyb29rYWF6dWxAeWFob28uY29tMIIB3wYDVR0fBIIB1jCCAdIwggHOoIIByqCCAcaGgdVsZGFwOi8vYmNlcWxkYXBzdWJwMS5iY2UuZWMvY249Q1JMMTgwLGNuPUFDJTIwQkFOQ08lMjBDRU5UUkFMJTIwREVMJTIwRUNVQURPUixsPVFVSVRPLG91PUVOVElEQUQlMjBERSUyMENFUlRJRklDQUNJT04lMjBERSUyMElORk9STUFDSU9OLUVDSUJDRSxvPUJBTkNPJTIwQ0VOVFJBTCUyMERFTCUyMEVDVUFET1IsYz1FQz9jZXJ0aWZpY2F0ZVJldm9jYXRpb25MaXN0P2Jhc2WGNGh0dHA6Ly93d3cuZWNpLmJjZS5lYy9DUkwvZWNpX2JjZV9lY19jcmxmaWxlY29tYi5jcmykgbUwgbIxCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcwNQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJQkNFMQ4wDAYDVQQHEwVRVUlUTzElMCMGA1UEAxMcQUMgQkFOQ08gQ0VOVFJBTCBERUwgRUNVQURPUjEPMA0GA1UEAxMGQ1JMMTgwMCsGA1UdEAQkMCKADzIwMTQxMjA4MTQ0NjE1WoEPMjAxNTEyMDgxNTE2MTVaMB8GA1UdIwQYMBaAFBj58PvmMhyZZjkqyouyaX1JJ7/OMB0GA1UdDgQWBBTST/DsMXAwHqeqR8sOZNAZ+0HyijAJBgNVHRMEAjAAMBkGCSqGSIb2fQdBAAQMMAobBFY4LjEDAgSwMA0GCSqGSIb3DQEBCwUAA4ICAQAPw9R37lfLlS43NAQCR6WfgNUWneGug9l22p3qOe7U5JCkkfMRPxxfov0DhIlTz4nKdFBtcDXMop9dJoM6PtyvG/0/Fjix5vNJgOuTitdQU5nWmRVSIAJG2qj8r+k04yXrCpUmD91Hh71zZAeVe/w4CUhJRWXO9jdxfchlSbmtlJlPOxryHqVl4rwtfby33Pa3FeMWhrx9OId91YrLVcQyrQv/lb6ZXTN4gcbzPlAfe1sbWrI5cGmjcvLdLrjkAU+reZQdVksZzgyJLcyj80BgNuBZA19Al6DXEMpH+tz5a4uBYxlsLH12yo+h3BfzxxBL+wX/O2c6NyHl3X2cQFVTM1m11ClM/x8avYSm4xjKlgPjRMSG6KQLh9W2oELnlw3aBCh4LRvwTj6FK23NuSAielrehgGvoFv5fxNGUhuXAReifePkQkAG7oB6XX8RjWbn1gaiE/N5DX+MDS4C+Ky6LxmAmbm0Tg/j1EwovhjA3MpDpPtmR0X+0QKYQphKs5lgF0eBDEf+iqEZiH9v7FDY3SCiNdhOegEfMITzN91pZVtQLMh4VVV6v6JmT8Kw7Fi7hntPnoJF6ENH0oH4sHstN5rBZhp4Q1R8RuZQFT4Ebw//iJB+s9+GjknBmtBRI9oavTuVPK9X3OXvBb0SRBwsX6lx42kntoECGByzrwVCCA==&lt;/X509Certificate&gt;&lt;/X509Data&gt;&lt;KeyValue&gt;&lt;RSAKeyValue&gt;&lt;Modulus&gt;spmeGJTYuUMHxZoAhcUhOFDy6MfDLNgf3bIycB47J8PvWfIkLjvMVMyfcmuPN3/8uc/69OrHp4zFb1IEPlxYhxScOCZ8J21CokOksAM4HY9jb9oLyfiRFgIuH1wFyxYPFIkR2T1L+MtRL/cs7N7n6cdXF4UOJG3d/5gGWJr6vH4gQu1Mr0MXH9IzfFwLyu3vMZNsG5Ak5QCcH5x/bD0kjdTOWLP3etJqbnvxsxpHq48LqAPS00VNaDDcWqePj0Wk9dJgpbWTnYwmECN0Aid2/3QRlfDxb8IqoBFbIf0G7+ujJCe5iv4FICoXSMieI2TCUbZR/WIw9FbLFsLSmCBFSQ==&lt;/Modulus&gt;&lt;Exponent&gt;AQAB&lt;/Exponent&gt;&lt;/RSAKeyValue&gt;&lt;/KeyValue&gt;&lt;/KeyInfo&gt;&lt;Object Id="Object776085998"&gt;&lt;QualifyingProperties Target="#Signature776085998" xmlns="http://uri.etsi.org/01903/v1.3.2#"&gt;&lt;SignedProperties Id="SignedProperties776085998"&gt;&lt;SignedSignatureProperties&gt;&lt;SigningTime&gt;2015-01-26T12:38:12-05:00&lt;/SigningTime&gt;&lt;/SignedSignatureProperties&gt;&lt;SignedDataObjectProperties&gt;&lt;DataObjectFormat ObjectReference="#Reference-ID-776085998"&gt;&lt;Description&gt;contenido comprobante&lt;/Description&gt;&lt;MimeType&gt;text/xml&lt;/MimeType&gt;&lt;/DataObjectFormat&gt;&lt;/SignedDataObjectProperties&gt;&lt;/SignedProperties&gt;&lt;/QualifyingProperties&gt;&lt;/Object&gt;&lt;/Signature&gt;&lt;/factura&gt;</comprobante>
+  <mensajes />
+</autorizacion>
